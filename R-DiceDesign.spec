@@ -5,7 +5,7 @@
 #
 Name     : R-DiceDesign
 Version  : 1.9
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/DiceDesign_1.9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/DiceDesign_1.9.tar.gz
 Summary  : Designs of Computer Experiments
